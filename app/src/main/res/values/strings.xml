@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Corvallis Reuse and Repair Directory</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="select_service">Please select Reuse or Repair:</string>
+    <string name="reuse">Reuse</string>
+    <string name="repair">Repair</string>
+    <string name="action_settings">Settings</string>
+</resources>
